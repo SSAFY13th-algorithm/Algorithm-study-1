@@ -127,6 +127,7 @@ public class Q1WizardSharkAndFireBall {
 					sSum += board[i][j].get(k).speed;
 				}
 
+				// false -> contains both even and odd vals
 				int add    = allSameDir ? 0 : 1;
 				int nMass  = mSum / 5;
 				int nSpeed = sSum / board[i][j].size();
@@ -135,7 +136,6 @@ public class Q1WizardSharkAndFireBall {
 
 				if (nMass <= 0) continue;
 
-				// true -> contains both even and odd vals
 				for (int k = 0; k < 8; k += 2) {
 					board[i][j].add(new FireBall(i, j, nMass, nSpeed, k + add));
 				}
