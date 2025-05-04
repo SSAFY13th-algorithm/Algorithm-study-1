@@ -355,3 +355,29 @@ https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/
 | DP |  <a href="https://www.acmicpc.net/problem/1699">제곱수의 합</a> | <a href="https://www.acmicpc.net/problem/1699">🔗</a> |
 
 <br>
+
+
+### Week 16 (25.05.05 ~ 25.05.12)
+
+```
+김민진 -> 김동하 -> 박준서 -> 박예진 -> 문한결 -> 이종환 -> 김민진
+```
+
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| DP |  <a href="https://www.acmicpc.net/problem/32648">ZOAC 7</a> | <a href="https://www.acmicpc.net/problem/32648">🔗</a> |
+| LCA |  <a href="https://www.acmicpc.net/problem/30050">트리와 쿼리10^9</a> | <a href="https://www.acmicpc.net/problem/30050">🔗</a> |
+| 완탐 |  <a href="https://www.acmicpc.net/problem/32649">GLCCDM</a> | <a href="https://www.acmicpc.net/problem/32649">🔗</a> 
+| 구현 |  <a href="https://www.acmicpc.net/problem/30046">HJS</a> | <a href="https://www.acmicpc.net/problem/30046">🔗</a> |
+| 그리디 |  <a href="https://www.acmicpc.net/problem/31872">강의실</a> | <a href="https://www.acmicpc.net/problem/31872">🔗</a> |
+
+<br>
+
+
+도전 문제(**필수 아님**)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| ??? |  <a href="https://www.acmicpc.net/problem/32647">골드바흐흑흙의 추측</a> | <a href="https://www.acmicpc.net/problem/32647">🔗</a> |
+
+
+<br>
