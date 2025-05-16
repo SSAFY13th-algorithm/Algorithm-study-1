@@ -380,4 +380,19 @@ https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/
 | ??? |  <a href="https://www.acmicpc.net/problem/32647">골드바흐흑흙의 추측</a> | <a href="https://www.acmicpc.net/problem/32647">🔗</a> |
 
 
+
+### Week 17 (25.05.12 ~ 25.05.19)
+
+```
+박준서 -> 이종환 -> 문한결 -> 김동하 -> 박예진 -> 김민진 -> 박준서
+```
+
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/23291">어항 정리</a> | <a href="https://www.acmicpc.net/problem/23291">🔗</a> |
+| 이분탐색 |  <a href="https://www.acmicpc.net/problem/1477">휴게소 세우기</a> | <a href="https://www.acmicpc.net/problem/1477">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/2631">줄세우기</a> | <a href="https://www.acmicpc.net/problem/2631">🔗</a> 
+| 문자열 |  <a href="https://www.acmicpc.net/problem/5582">공통 부분 문자열</a> | <a href="https://www.acmicpc.net/problem/5582">🔗</a> |
+| 그리디 |  <a href="https://www.acmicpc.net/problem/2138">전구와 스위치</a> | <a href="https://www.acmicpc.net/problem/2138">🔗</a> |
+
 <br>
