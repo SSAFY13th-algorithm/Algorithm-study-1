@@ -396,3 +396,27 @@ https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/
 | 그리디 |  <a href="https://www.acmicpc.net/problem/2138">전구와 스위치</a> | <a href="https://www.acmicpc.net/problem/2138">🔗</a> |
 
 <br>
+
+### Week 18 (25.05.19 ~ 25.05.26)
+
+```
+김동하 -> 박준서 -> 김민진 -> 문한결 -> 이종환 -> 박예진 -> 김동하
+```
+
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/16235">나무 재테</a> | <a href="https://www.acmicpc.net/problem/16235">🔗</a> |
+| 브루트포스 |  <a href="https://www.acmicpc.net/problem/12919">A와 B 2</a> | <a href="https://www.acmicpc.net/problem/12919">🔗</a> |
+| 수학 |  <a href="https://www.acmicpc.net/problem/2023">신기한 소수</a> | <a href="https://www.acmicpc.net/problem/2023">🔗</a> 
+| 이분탐 |  <a href="https://www.acmicpc.net/problem/2632">피자판매</a> | <a href="https://www.acmicpc.net/problem/2632">🔗</a> |
+| 그리디 |  <a href="https://www.acmicpc.net/problem/1343">폴리오미노</a> | <a href="https://www.acmicpc.net/problem/1343">🔗</a> |
+
+<br>
+
+<br>
+
+
+도전 문제(**필수 아님**)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.codetree.ai/ko/frequent-problems/problems/medusa-and-warriors/description">메두사와 전사들</a> | <a href="https://www.codetree.ai/ko/frequent-problems/problems/medusa-and-warriors/description">🔗</a> |
