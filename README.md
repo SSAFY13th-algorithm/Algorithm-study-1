@@ -78,6 +78,8 @@ https://github.com/ICT-Dev-Route/Dev-Route-BE/issues/125
 
 ## 주차 별 문제풀이 
 https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/22697
+
+## 1학기
  
 ### Week 01 (25.01.20 ~ 25.01.27)
 
@@ -420,3 +422,27 @@ https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 구현 |  <a href="https://www.codetree.ai/ko/frequent-problems/problems/medusa-and-warriors/description">메두사와 전사들</a> | <a href="https://www.codetree.ai/ko/frequent-problems/problems/medusa-and-warriors/description">🔗</a> |
+
+---
+
+## 2학기
+
+### Week 1 (25.07.14 ~ 25.07.21)
+
+```
+김동하 -> 이종환 -> 박준서 -> 이준희 -> 김민진 -> 강신지 -> 김동하
+```
+
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/2239">스도쿠</a> | <a href="https://www.acmicpc.net/problem/2239">🔗</a> |
+| 문자열 |  <a href="https://www.acmicpc.net/problem/9935">문자열 폭발</a> | <a href="https://www.acmicpc.net/problem/9935">🔗</a> |
+| 누적합 |  <a href="https://www.acmicpc.net/problem/17390">이건 꼭 풀어야해!</a> | <a href="https://www.acmicpc.net/problem/17390">🔗</a> 
+| 이분탐색 |  <a href="https://www.acmicpc.net/problem/1561">놀이공원</a> | <a href="https://www.acmicpc.net/problem/1561">🔗</a> |
+| 최단경로 |  <a href="https://www.acmicpc.net/problem/10159">저울</a> | <a href="https://www.acmicpc.net/problem/10159">🔗</a> |
+
+<br>
+
+<br>
+
+
